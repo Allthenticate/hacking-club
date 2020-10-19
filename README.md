@@ -2,6 +2,7 @@ This is a simple buffer overflow example to serve as an introduction to binary e
 
 Try the password: `MY NAME IS CHAD SPENSKY MY NAME IS`
 
+This was only tested on OSX.
 
 Build with
 ```bash
