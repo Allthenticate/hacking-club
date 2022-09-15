@@ -23,7 +23,7 @@ void check_password() {
 
 	// Read input from the user
 	printf("Input password:");
-	fgets(input, 1024, stdin);
+	gets(input);
 
 	// Check the entered password
 	if (strncmp(input,password,7) == 0) {
